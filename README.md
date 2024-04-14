@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>https://www.canva.com/design/DAGCW1heckc/88TeRZV62LgbgLIP74SEJg/edit</title>
+    <title> https://media.geeksforgeeks.org/wp-content/uploads/20230814154946/Data-Analyst.png </title>
 </head>
 <body>
     <h2>¡Hola, mundo!</h2>
