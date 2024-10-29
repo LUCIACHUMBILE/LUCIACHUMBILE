@@ -1,4 +1,5 @@
-![Header](github-header-image (1).png)
+![](https://github.com/LUCIACHUMBILE/LUCIACHUMBILE/blob/main/github-header-image%20(1).png)
+
 ### Hi there 👋
 🔭 I’m currently working on Visso
 🌱 I’m currently learning Python
