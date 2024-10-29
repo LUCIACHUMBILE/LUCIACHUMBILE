@@ -1,4 +1,4 @@
-![Fondo de LinkedIn](https://raw.githubusercontent.com/LUCIACHUMBILE/LUCIACHUMBILE/e953803f297eb1b02691a5ab4982271150a5b1d1/Purple%20and%20Green%20Vibrant%20Modern%20Personal%20LinkedIn%20Banner.png)
+![Header](./your-header-image-name.png)
 ### Hi there 👋
 🔭 I’m currently working on Visso
 🌱 I’m currently learning Python
