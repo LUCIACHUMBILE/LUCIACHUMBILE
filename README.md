@@ -17,7 +17,7 @@ También he liderado proyectos de análisis de datos que han proporcionado insig
 
 
 ## My Skill Set  
-<tr><td valign="top" width="100%">
+<tr><td valign="top" width="100%" >
 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
