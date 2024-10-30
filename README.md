@@ -32,13 +32,13 @@ También he liderado proyectos de análisis de datos que han proporcionado insig
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/LUCIACHUMBILE" target="_blank">
+<a href="https://github.com/https:/LUCIACHUMBILE" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/luciachumbile/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/luciavanessa.chumbilegarcia?locale=es_LA" target="_blank">
+<a href="https://www.facebook.com/luciavanessa.chumbilegarcia?locale=es_LA" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
