@@ -1,11 +1,8 @@
 ![](https://github.com/LUCIACHUMBILE/LUCIACHUMBILE/blob/main/github-header-image%20(4).png)
 
-<div align="center">
-<img src="https://github.com/LUCIACHUMBILE/LUCIACHUMBILE/blob/main/github-header-image%20(4).png" align="center" height="250" width="1200" />
-</div>  
-  
+<div>
 
-### <div align="center">¡Hola! 👋 Soy una Ingeniera Industrial con una sólida experiencia en Operaciones. Me he especializado en el análisis de datos utilizando herramientas como Python, SQL y Power BI. 💼
+¡Hola! 👋 Soy una Ingeniera Industrial con una sólida experiencia en Operaciones. Me he especializado en el análisis de datos utilizando herramientas como Python, SQL y Power BI.
 
 Mi pasión por el análisis de datos surge de mi profundo entendimiento sobre su importancia en la toma de decisiones empresariales. Me dedico a identificar oportunidades de mejora y a optimizar procesos para impulsar el éxito organizacional. 📊
 
@@ -13,13 +10,14 @@ Me apasiona trabajar en un entorno colaborativo donde pueda aplicar mis habilida
 También he liderado proyectos de análisis de datos que han proporcionado insights valiosos para la toma de decisiones estratégicas. 🎯
 
 ¡No dudes en contactarme si quieres colaborar en proyectos emocionantes o si tienes alguna oportunidad profesional interesante para discutir! </div>  
-  
+
+📫 How to reach me: lucia.chumbile@gmail.com 
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -28,16 +26,6 @@ También he liderado proyectos de análisis de datos que han proporcionado insig
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -82,7 +70,6 @@ También he liderado proyectos de análisis de datos que han proporcionado insig
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-📫 How to reach me: lucia.chumbile@gmail.com 
+
 
