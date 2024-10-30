@@ -1,4 +1,4 @@
-![](https://github.com/LUCIACHUMBILE/LUCIACHUMBILE/blob/main/github-header-image%20(1).png)
+![](https://github.com/LUCIACHUMBILE/LUCIACHUMBILE/blob/main/github-header-image%20(4).png)
 
 ### Hi there 👋
 🔭 I’m currently working on Visso
