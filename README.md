@@ -1,8 +1,5 @@
 ![](https://github.com/LUCIACHUMBILE/LUCIACHUMBILE/blob/main/github-header-image%20(4).png)
 
-
-<iframe title="Control Plan  de Mkt" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTI0OWE0MWItMTdjMC00YTAwLTk5YTktN2FiYzcxMzE0ZTcxIiwidCI6IjVkYWFiZTY1LWZmNTMtNDMzNi1hNDQ4LTJmNjFlY2YwYjA1OSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
-
 <div>
 
 ¡Hola! 👋 Soy una Ingeniera Industrial con una sólida experiencia en Operaciones. Me he especializado en el análisis de datos utilizando herramientas como Python, SQL y Power BI.
